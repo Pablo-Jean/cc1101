@@ -157,8 +157,6 @@ cc1101_init(&amp;cc1101, &amp;params);
 
 ## References
 
-- [SpaceTeddy/CC1101 on GitHub](https://github.com/SpaceTeddy/CC1101)
-- [EMCU.EU STM32 printf over USB](http://www.emcu.eu/how-to-implement-printf-for-send-message-via-usb-on-stm32-nucleo-boards-using-atollic)
 - [TI CC1101 Datasheet](https://www.ti.com/product/CC1101)
 
 ---
